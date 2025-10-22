@@ -18,3 +18,4 @@ A dedicated stub network is used for the DHCP server, and two access points prov
 The logical topology interconnects the switches and routers through redundant links to ensure high availability.  
 Each VLAN is assigned to a specific subnet and configured for inter-VLAN routing through HSRP.
 
+![Logical Topology](diagrams/logical_topology.png)
