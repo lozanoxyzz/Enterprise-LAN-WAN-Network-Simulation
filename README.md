@@ -100,8 +100,8 @@ To further improve the design:
 
 | File | Description |
 |------|-------------|
-| `project/PIA_2024404.pkt` | Cisco Packet Tracer simulation file |
-| `docs/presentacion_pia.pdf` | Original project documentation |
+| `project/enterprise_lan_wlan_simulation.pkt` | Cisco Packet Tracer simulation file |
+| `docs/project_presentation_spanish.pdf` | Original project documentation |
 | `diagrams/logical_topology.png` | Logical topology diagram |
 
 ---
